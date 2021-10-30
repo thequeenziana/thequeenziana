@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Ziana
-- 👀 I’m interested in python coding
-- 🌱 I’m currently learning python programming
-- 💞️ I’m looking to collaborate on computer science engineering
-- 📫 How to reach me: Just email me!
+Hello there! I am Ziana Jesin Bhuiyan, currently studying Computer Science Engineering at Brac University.
 
 <!---
 thequeenziana/thequeenziana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
